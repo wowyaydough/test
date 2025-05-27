@@ -1,7 +1,17 @@
+.mobile{
+  width: 300px;
+}
+
+.container{
+  width: 100%;
+}
+
 .alert-box{
  background-color: skyblue;
   color: white;
   font-size: 10px;
   padding: 5px;
   border-radius: 5px;
+  display:none;
 }
+
